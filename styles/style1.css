@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(150,150,150);
+}
+  .contact{
+    margin-top: 7%;
+    text-align: center;
+  }
+  input{
+    width:250px;
+    height:32px;
+    background-color:transparent;
+    border:1px solid black;
+  }
+  h2{
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+
+  .navigation{
+   display: flex;
+   font-size: 1.375em;
+
+  }
+
+  .reservation{
+   background-color: #fff;
+   color: #000;
+
+  }
+
+  .home_list_item{
+    margin-left: 1em;
+
+  }
+
+  .home_nav_list{
+    display: flex;
+  }
+
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
